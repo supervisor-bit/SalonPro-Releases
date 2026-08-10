@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/supervisor-bit/SalonPro-Releases/releases/download/v1.0.0/SalonPro-Setup-1.0.0.exe",
-  "sha256": "e80f9361f125fd0486278195b0ede4614429df0dd5f1bf9da6c3ae1db8a13a97",
-  "notes": "První stabilní vydání SalonPro."
+  "version": "1.0.1",
+  "download_url": "https://github.com/supervisor-bit/SalonPro-Releases/releases/download/v1.0.1/SalonPro-Setup-1.0.1.exe",
+  "sha256": "267a7be57b3cd249a3672b55217bc4a18f73f2aa23697f2ac5b6a04ec65a7eef",
+  "notes": "Opravený dialog Přehledy a vyčištěný hlavní formulář."
 }
